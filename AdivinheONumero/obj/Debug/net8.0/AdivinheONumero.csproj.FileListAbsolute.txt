@@ -1,0 +1,14 @@
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.exe
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.deps.json
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.runtimeconfig.json
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.dll
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.pdb
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.AssemblyInfoInputs.cache
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.AssemblyInfo.cs
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.csproj.CoreCompileInputs.cache
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.dll
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\refint\AdivinheONumero.dll
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.pdb
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.genruntimeconfig.cache
+C:\Users\milen\Documents\C# Alura\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\ref\AdivinheONumero.dll
